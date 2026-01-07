@@ -5,3 +5,9 @@ Originaly design was created for ironbci BCI. You can adapt it for  your needs i
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/headset.png "connect")
   
 ALL DETAILS IN THE REPO FOR THE HEADSET https://github.com/pieeg-club/ironbci_3D_EEG_Printable_Headset   
+
+
+
+Headset and cover parts   
+![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_5.png "cover")
+   
