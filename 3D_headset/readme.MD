@@ -8,6 +8,6 @@ ALL DETAILS IN THE REPO FOR THE HEADSET https://github.com/pieeg-club/ironbci_3D
 
 
 
-Headset and cover parts   
+Printed Headset and cover parts   
 ![alt tag](https://github.com/pieeg-club/ironbci_3D_Printable_Headset/blob/main/images/iron_5.png "cover")
    
