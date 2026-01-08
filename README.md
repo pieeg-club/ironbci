@@ -60,5 +60,5 @@ Rakhmatulin, I. IronBCI: A Low-Cost, Open-Source BCI Platform with Mobile SDK fo
 Documentation https://pieeg.com/docs/docs/  
 https://pieeg.com/   
 pieeg@pieeg.com  
-Discord https://discord.gg/RnCdpwbywx  
+Any questions about EEG, join Discord https://discord.gg/RnCdpwbywx  (more than 500 neuro enthusiast)  
 
