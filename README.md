@@ -47,7 +47,7 @@ How to program a brain-computer interface - ironBCI, a low-cost brain-computer i
 [![Hardware demonstrations](https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/sdk.png)](https://www.youtube.com/watch?v=iHrR5pZpmRM)   
 
 ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
-<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="50%" height="50%">
+<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="90%" height="90%">
 
 
 
