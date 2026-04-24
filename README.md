@@ -46,6 +46,8 @@ SDK mobile app test
 How to program a brain-computer interface - ironBCI, a low-cost brain-computer interface with BLE  
 [![Hardware demonstrations](https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/sdk.png)](https://www.youtube.com/watch?v=iHrR5pZpmRM)   
 
+ironbci included to [PiEEG-Server software](https://github.com/pieeg-club/PiEEG-server)  
+<img src="https://github.com/pieeg-club/ironbci/blob/master/Supplementary%20files/imahe_2.png" alt="general view" title="general view" width="50%" height="50%">
 
 
 
